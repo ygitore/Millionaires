@@ -1,0 +1,13 @@
+C:\Users\Owner\workspace\Millionaires\Millionaires\bin\Debug\netcoreapp3.1\Millionaires.exe
+C:\Users\Owner\workspace\Millionaires\Millionaires\bin\Debug\netcoreapp3.1\Millionaires.deps.json
+C:\Users\Owner\workspace\Millionaires\Millionaires\bin\Debug\netcoreapp3.1\Millionaires.runtimeconfig.json
+C:\Users\Owner\workspace\Millionaires\Millionaires\bin\Debug\netcoreapp3.1\Millionaires.runtimeconfig.dev.json
+C:\Users\Owner\workspace\Millionaires\Millionaires\bin\Debug\netcoreapp3.1\Millionaires.dll
+C:\Users\Owner\workspace\Millionaires\Millionaires\bin\Debug\netcoreapp3.1\Millionaires.pdb
+C:\Users\Owner\workspace\Millionaires\Millionaires\obj\Debug\netcoreapp3.1\Millionaires.csprojAssemblyReference.cache
+C:\Users\Owner\workspace\Millionaires\Millionaires\obj\Debug\netcoreapp3.1\Millionaires.AssemblyInfoInputs.cache
+C:\Users\Owner\workspace\Millionaires\Millionaires\obj\Debug\netcoreapp3.1\Millionaires.AssemblyInfo.cs
+C:\Users\Owner\workspace\Millionaires\Millionaires\obj\Debug\netcoreapp3.1\Millionaires.csproj.CoreCompileInputs.cache
+C:\Users\Owner\workspace\Millionaires\Millionaires\obj\Debug\netcoreapp3.1\Millionaires.dll
+C:\Users\Owner\workspace\Millionaires\Millionaires\obj\Debug\netcoreapp3.1\Millionaires.pdb
+C:\Users\Owner\workspace\Millionaires\Millionaires\obj\Debug\netcoreapp3.1\Millionaires.genruntimeconfig.cache

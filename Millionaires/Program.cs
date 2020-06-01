@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Millionaires
 {
@@ -42,12 +43,16 @@ namespace Millionaires
                     public string BankName { get; set; }
                 }
             */
-            List<ReportItem> millionaireReport = 
-
-                foreach (var item in millionaireReport)
-                {
-                    Console.WriteLine($"{item.CustomerName} at {item.BankName}");
-                }
+            List<ReportItem> millionaireReport = (from c in customers
+                                                join b in banks
+                                                on c.Bank equals b.Name
+                                                into lst 
+                                                select new {CustomerName = c.Name, BankName = banks.Name}).toList();  
+           
+            foreach (var item in millionaireReport)
+            {
+                Console.WriteLine($"{item.CustomerName} at {item.BankName}");
+            }
         }
     }
 }
